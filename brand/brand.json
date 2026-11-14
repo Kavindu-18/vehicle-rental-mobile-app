@@ -1,0 +1,18 @@
+{
+  "name": "Rentora",
+  "tagline": "Rent any car, from anyone",
+  "bundleId": "lk.rentora.app",
+  "scheme": "rentora",
+  "currency": "LKR",
+  "theme": {
+    "mode": "dark",
+    "primary": "#7C5CFF",
+    "accent": "#00E0C6",
+    "background": "#07070B",
+    "surface": "#13131C",
+    "surfaceAlt": "#1C1C28",
+    "text": "#F5F5FA",
+    "muted": "#8A8AA3",
+    "border": "#262636"
+  }
+}
